@@ -1,0 +1,34 @@
+﻿Build started 2017/7/5 16:25:03.
+     1>Project "c:\Users\A915\documents\visual studio 2012\Projects\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt Board.c LinkList.c
+         LinkList.c
+         Board.c
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\a915\documents\visual studio 2012\projects\project1\project1\source.cpp(63): warning C4101: 'hbmMem' : unreferenced local variable
+     1>c:\users\a915\documents\visual studio 2012\projects\project1\project1\source.cpp(69): warning C4101: 'hBrushBall' : unreferenced local variable
+     1>c:\users\a915\documents\visual studio 2012\projects\project1\project1\source.cpp(62): warning C4101: 'hdcmem' : unreferenced local variable
+     1>c:\users\a915\documents\visual studio 2012\projects\project1\project1\source.cpp(80): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\a915\documents\visual studio 2012\projects\project1\project1\source.cpp(70): warning C4101: 'hBrushTrap' : unreferenced local variable
+     1>c:\users\a915\documents\visual studio 2012\projects\project1\project1\source.cpp(68): warning C4101: 'hBrushBoard' : unreferenced local variable
+     1>c:\users\a915\documents\visual studio 2012\projects\project1\project1\source.cpp(71): warning C4101: 'hOldBrush' : unreferenced local variable
+     1>c:\users\a915\documents\visual studio 2012\projects\project1\project1\source.cpp(73): warning C4101: 'hFont' : unreferenced local variable
+     1>c:\users\a915\documents\visual studio 2012\projects\project1\project1\source.cpp(74): warning C4101: 'hOldFont' : unreferenced local variable
+     1>c:\users\a915\documents\visual studio 2012\projects\project1\project1\source.cpp(66): warning C4101: 'hOldPen' : unreferenced local variable
+     1>c:\users\a915\documents\visual studio 2012\projects\project1\project1\source.cpp(79): warning C4101: 'lpBall' : unreferenced local variable
+     1>c:\users\a915\documents\visual studio 2012\projects\project1\project1\source.cpp(61): warning C4101: 'hpen' : unreferenced local variable
+     1>c:\users\a915\documents\visual studio 2012\projects\project1\project1\source.cpp(65): warning C4101: 'hPenBoundary' : unreferenced local variable
+     1>c:\users\a915\documents\visual studio 2012\projects\project1\project1\source.cpp(78): warning C4101: 'pBoardBody' : unreferenced local variable
+     1>c:\users\a915\documents\visual studio 2012\projects\project1\project1\source.cpp(62): warning C4101: 'hdc' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\a915\documents\visual studio 2012\Projects\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\a915\documents\visual studio 2012\Projects\Project1\Debug\Project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\a915\documents\visual studio 2012\Projects\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\Board.obj
+         Debug\LinkList.obj
+         Debug\Source.obj
+         Project1.vcxproj -> c:\users\a915\documents\visual studio 2012\Projects\Project1\Debug\Project1.exe
+     1>Done Building Project "c:\Users\A915\documents\visual studio 2012\Projects\Project1\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.60

@@ -1,0 +1,4 @@
+﻿  ui.c
+d:\project1\project1\ui.c(175): warning C4244: “函数”: 从“double”转换到“COLORREF”，可能丢失数据
+  Project1.vcxproj -> D:\Project1\Debug\Project1.exe
+  Project1.vcxproj -> D:\Project1\Debug\Project1.pdb (Partial PDB)
