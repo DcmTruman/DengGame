@@ -1,8 +1,8 @@
 ﻿  Ball_and_Board.c
-d:\denggame\project1\project1\ball_and_board.c(209): warning C4047: “函数”:“DWORD”与“void *”的间接级别不同
-d:\denggame\project1\project1\ball_and_board.c(209): warning C4024: “PlaySoundA”: 形参和实参 3 的类型不同
-d:\denggame\project1\project1\ball_and_board.c(483): warning C4013: “MoveupBall”未定义；假设外部返回 int
-d:\denggame\project1\project1\ball_and_board.c(607): warning C4018: “>=”: 有符号/无符号不匹配
-d:\denggame\project1\project1\ball_and_board.c(688): warning C4133: “return”: 从“PLIST”到“PGAME_COORD”的类型不兼容
-  Project1.vcxproj -> D:\DengGame\Project1\Debug\Project1.exe
-  Project1.vcxproj -> D:\DengGame\Project1\Debug\Project1.pdb (Partial PDB)
+d:\denggame\project1(c)\project1\ball_and_board.c(209): warning C4047: “函数”:“DWORD”与“void *”的间接级别不同
+d:\denggame\project1(c)\project1\ball_and_board.c(209): warning C4024: “PlaySoundA”: 形参和实参 3 的类型不同
+d:\denggame\project1(c)\project1\ball_and_board.c(483): warning C4013: “MoveupBall”未定义；假设外部返回 int
+d:\denggame\project1(c)\project1\ball_and_board.c(607): warning C4018: “>=”: 有符号/无符号不匹配
+d:\denggame\project1(c)\project1\ball_and_board.c(688): warning C4133: “return”: 从“PLIST”到“PGAME_COORD”的类型不兼容
+  Project1.vcxproj -> D:\DengGame\Project1(C)\Debug\Project1.exe
+  Project1.vcxproj -> D:\DengGame\Project1(C)\Debug\Project1.pdb (Partial PDB)

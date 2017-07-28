@@ -666,7 +666,7 @@ void MakeBoard(HWND hwnd)
 	if (prop.type == NoneProp&&GetBoardTail()->type != bNone&&(PropWorking==FALSE||BeginInvincible==TRUE)&&(BeginSlow==FALSE&&BeginSpeedUp==FALSE))
 	{
 		int t = rand() % 100;
-		if (t <5)
+		if (t <100)
 		{
 			prop.x = GetBoardTail()->x + rand() % 80;
 			prop.y = GetBoardTail()->y - 20;
